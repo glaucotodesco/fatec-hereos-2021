@@ -9,7 +9,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   
   title = 'angular-tour-of-heroes';
-  name  = 'Glauco Todesco';
-  value = 100.20;
 
 }
